@@ -1,5 +1,7 @@
 # 💻 Programación Web 2026-II
 
+![UABCS - Universidad Autónoma de Baja California Sur](https://www.uabcs.mx/assets/images/tail-assets/logo_uabcs.png)
+
 Repositorio académico correspondiente a la materia de Programación Web, cursada durante el quinto semestre de la carrera de Ingeniería en Desarrollo de Software.
 
 En este repositorio se almacenan los ejercicios, prácticas, actividades y proyectos desarrollados durante el periodo 2026-II, utilizando tecnologías fundamentales para el desarrollo web.
